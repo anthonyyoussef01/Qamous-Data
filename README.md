@@ -1,5 +1,5 @@
-# urban-dictionary-ar-data-scraping
-Data scraping for urban-dictionary-ar
+# Qamous-Data
+Data / Data Scraping scraping for Qamous
 
 ## Libraries Used
 - **beautifulsoup4** : `pip install beautifulsoup4` for parsing HTML and XML
